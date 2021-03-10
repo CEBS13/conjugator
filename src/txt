@@ -1,0 +1,33 @@
+{
+ "data":{
+   "verb1":{
+    "category": 1,
+    "id":1,
+    "infinitive": "parler",
+    "present":{
+       "Je":"parle",
+       "Tu":"parle",
+       "Il/Elle": "parle",
+       "Nous": "parlons",
+       "Vous": "parlez",
+       "Ils/Elles": "parlent"
+      },
+      "imparfait":{
+        "Je":"parlais",
+         "Tu":"parlais",
+         "Il/Elle": "parlait",
+         "Nous": "parlions",
+         "Vous": "parliez",
+         "Ils/Elles": "parlaient"
+      },
+   },
+   "verb2":{
+     
+   },
+   "verb3":{
+     
+   }
+   
+ }
+  
+}
